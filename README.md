@@ -1,4 +1,4 @@
-# React Native Navigation 6.x
+# React Native Navigation 6.x - Managed Project
 
 Creating Sample:
 npx create-expo-app Project
@@ -14,3 +14,4 @@ Running:
 Installing React Navigation:
     npm install @react-navigation/native
     npx expo install react-native-screens react-native-safe-area-context
+    npm install @react-navigation/native-stack
